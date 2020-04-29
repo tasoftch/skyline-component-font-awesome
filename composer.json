@@ -1,0 +1,14 @@
+{
+  "name": "skyline/component-font-awesome",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Abplanalp",
+      "email": "info@tasoft.ch"
+    }
+  ],
+  "require" : {
+    "php": "^7.2",
+    "skyline/direct-components": "^0.8"
+  }
+}
