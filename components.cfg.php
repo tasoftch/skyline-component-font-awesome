@@ -6,9 +6,9 @@ use Skyline\Component\Config\CSSComponent;
 return [
     "FontAwesome" => [
         'css' => new CSSComponent(
-        	"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        	"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.2.0/css/all.min.css",
 			'all',
-			"sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==",
+			"sha512-6c4nX2tn5KbzeBJo9Ywpa0Gkt+mzCzJBrE1RB6fmpcsoN+b/w/euwIMuQKNyUoU/nToKN3a8SgNOtPrbW12fug==",
 			'anonymous'
 		)
     ]
